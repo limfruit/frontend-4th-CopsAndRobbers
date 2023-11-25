@@ -1,0 +1,28 @@
+body {
+    height: 70vh;
+    background-image:url('images/title.JPG');
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+#container {
+    margin-top: 300px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Rye', serif;
+    font-size: 5rem;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    font-size: 2rem;
+    background-color:transparent;
+}
